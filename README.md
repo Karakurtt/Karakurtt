@@ -1,6 +1,6 @@
 ## Hi 👋 
 
-My name is Maksimov Roman, I am 4 yer student of applied maths and computer science.
+My name is Maksimov Roman, I am 4 year student of applied maths and computer science.
 
 <!--
 **Karakurtt/Karakurtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
