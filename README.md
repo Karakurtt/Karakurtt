@@ -1,6 +1,6 @@
-## Привет! 👋 
+## Hi 👋 
 
-Меня зовут Максимов Роман, я студент 3 курса ФПМИ МФТИ, дополнительно учусь на DS-потоке с углубленным изучением статистики и машинного обучения.
+My name is Maksimov Roman, I am 4 yer student of applied maths and computer science.
 
 <!--
 **Karakurtt/Karakurtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
